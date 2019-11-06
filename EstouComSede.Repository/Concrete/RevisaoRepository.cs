@@ -9,7 +9,7 @@ namespace EstouComSede.Repository.Concrete
 {
     public class RevisaoRepository : IRevisaoRepository
     {
-        private const string CON = "Data Source=localhost;Initial Catalog=estoucomsede;Integrated Security=SSPI;";
+        private const string CON = "Server=tcp:estoucomsedebd.database.windows.net,1433;Initial Catalog=estoucomsede;Persist Security Info=False;User ID=allansouzab;Password=Allan1souza2;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
 
         public RetornoRevisao Approve(int id)
         {

@@ -19,3 +19,4 @@ C:\Projetos\EstouComSedeApi\EstouComSedeApi\bin\Debug\netcoreapp2.1\EstouComSede
 C:\Projetos\EstouComSedeApi\EstouComSedeApi\bin\Debug\netcoreapp2.1\EstouComSede.Service.pdb
 C:\Projetos\EstouComSedeApi\EstouComSedeApi\bin\Debug\netcoreapp2.1\EstouComSede.Repository.pdb
 C:\Projetos\EstouComSedeApi\EstouComSedeApi\obj\Debug\netcoreapp2.1\EstouComSedeApi.csproj.CopyComplete
+C:\Projetos\EstouComSedeApi\EstouComSedeApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

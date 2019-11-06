@@ -1,0 +1,9 @@
+C:\Projetos\EstouComSedeApi\EstouComSede.Domain\bin\Release\netcoreapp2.1\EstouComSede.Domain.deps.json
+C:\Projetos\EstouComSedeApi\EstouComSede.Domain\bin\Release\netcoreapp2.1\EstouComSede.Domain.dll
+C:\Projetos\EstouComSedeApi\EstouComSede.Domain\bin\Release\netcoreapp2.1\EstouComSede.Domain.pdb
+C:\Projetos\EstouComSedeApi\EstouComSede.Domain\obj\Release\netcoreapp2.1\EstouComSede.Domain.csprojAssemblyReference.cache
+C:\Projetos\EstouComSedeApi\EstouComSede.Domain\obj\Release\netcoreapp2.1\EstouComSede.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\EstouComSedeApi\EstouComSede.Domain\obj\Release\netcoreapp2.1\EstouComSede.Domain.AssemblyInfoInputs.cache
+C:\Projetos\EstouComSedeApi\EstouComSede.Domain\obj\Release\netcoreapp2.1\EstouComSede.Domain.AssemblyInfo.cs
+C:\Projetos\EstouComSedeApi\EstouComSede.Domain\obj\Release\netcoreapp2.1\EstouComSede.Domain.dll
+C:\Projetos\EstouComSedeApi\EstouComSede.Domain\obj\Release\netcoreapp2.1\EstouComSede.Domain.pdb
