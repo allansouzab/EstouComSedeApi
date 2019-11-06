@@ -1,0 +1,16 @@
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\bin\Debug\netcoreapp2.1\EstouComSede.Service.deps.json
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\bin\Debug\netcoreapp2.1\EstouComSede.Service.dll
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\bin\Debug\netcoreapp2.1\EstouComSede.Service.pdb
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\bin\Debug\netcoreapp2.1\EstouComSede.Domain.dll
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\bin\Debug\netcoreapp2.1\EstouComSede.Repository.dll
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\bin\Debug\netcoreapp2.1\EstouComSede.Domain.pdb
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\bin\Debug\netcoreapp2.1\EstouComSede.Repository.pdb
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\obj\Debug\netcoreapp2.1\EstouComSede.Service.csprojAssemblyReference.cache
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\obj\Debug\netcoreapp2.1\EstouComSede.Service.csproj.CoreCompileInputs.cache
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\obj\Debug\netcoreapp2.1\EstouComSede.Service.AssemblyInfoInputs.cache
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\obj\Debug\netcoreapp2.1\EstouComSede.Service.AssemblyInfo.cs
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\obj\Debug\netcoreapp2.1\EstouComSede.Service.csproj.CopyComplete
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\obj\Debug\netcoreapp2.1\EstouComSede.Service.dll
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\obj\Debug\netcoreapp2.1\EstouComSede.Service.pdb
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projetos\EstouComSedeApi\EstouComSede.Service\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
